@@ -1,0 +1,7 @@
+# Notas internas de la oradora
+definiciones_proyectos.md
+
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+venv/
