@@ -4,10 +4,10 @@ Una misma pregunta de negocio, **"¿cómo venimos? ¿en qué mes vendimos más?"
 
 | # | Proyecto | Archivo | Abrir en Colab |
 |---|----------|---------|----------------|
-| 1 | Análisis con Python y Pandas | `notebook_pandas.ipynb` | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marianacasella92/masterclass-data-analytics/blob/main/notebook_pandas.ipynb) |
+| 1 | Análisis con Python y Pandas | `notebook_pandas.ipynb` | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Academia-Mariana-Casella/masterclass-data-analytics/blob/main/notebook_pandas.ipynb) |
 | 2 | La misma consulta con SQL (PostgreSQL) | `analisis_sql.sql` | — |
-| 2b | La misma consulta con SQL (DuckDB, sin instalar nada) | `sql_duckdb.ipynb` | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marianacasella92/masterclass-data-analytics/blob/main/sql_duckdb.ipynb) |
-| 3 | Mini reporte con indicadores + asistencia de IA | `mini_reporte_ia.ipynb` | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marianacasella92/masterclass-data-analytics/blob/main/mini_reporte_ia.ipynb) |
+| 2b | La misma consulta con SQL (DuckDB, sin instalar nada) | `sql_duckdb.ipynb` | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Academia-Mariana-Casella/masterclass-data-analytics/blob/main/sql_duckdb.ipynb) |
+| 3 | Mini reporte con indicadores + asistencia de IA | `mini_reporte_ia.ipynb` | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Academia-Mariana-Casella/masterclass-data-analytics/blob/main/mini_reporte_ia.ipynb) |
 
 ---
 
@@ -26,7 +26,7 @@ Los notebooks descargan `ventas.csv` directamente desde este repositorio, así q
 Necesitás [Python 3.9 o superior](https://www.python.org/downloads/) y [Git](https://git-scm.com/downloads), o podés descargar el ZIP desde el botón verde **Code → Download ZIP**.
 
 ```bash
-git clone https://github.com/marianacasella92/masterclass-data-analytics.git
+git clone https://github.com/Academia-Mariana-Casella/masterclass-data-analytics.git
 cd masterclass-data-analytics
 
 python -m venv .venv
